@@ -1,6 +1,6 @@
 # ContentProviderSample
 
-다른 앱에 있는 데이터를 변경하기 위해 ContentProvider를 사용하여 샘플 앱 작성
+다른 앱에 있는 데이터를 조회/변경하기 위해 ContentProvider를 사용하여 샘플 앱 제작
 
 
 ## 목표
