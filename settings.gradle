@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "contentProvider-Example"
+include ':app_update'
